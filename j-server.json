@@ -1,0 +1,41 @@
+{
+     "Contatos":[
+    {
+        "id": 0,
+        "nombre": "Caio Rodrigues",
+        "numero": "874-695-2354",
+        "email": "Caio_rodrigues@hotmail.com"
+    },
+    {
+        "id": 1,
+        "nombre": "Eduardo Toti",
+        "numero": "875-632-4123",
+        "email": "Eduardinho_totinho@gmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Lucas Fernandes",
+        "numero": "659-125-4578",
+        "email": "luquinha5s@hotmail.com"
+    },
+    {
+        "id": 3,
+        "nombre": "Carolina Nery",
+        "numero": "998-879-2548",
+        "email": "Nery_carolina@gmail.com"
+    },
+    {
+        "id": 4,
+        "nombre": "Pedro Costa",
+        "numero": "875-895-9845",
+        "email": "Pedro_costa@outlook.com"
+    },
+    {
+        "id": 5,
+        "nombre": "Renata Toti",
+        "numero": "785-577-8565",
+        "email": "Renathinha_toti@hotmail.com"
+    }
+
+]
+}
